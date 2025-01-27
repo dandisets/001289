@@ -14,15 +14,15 @@ assetsSummary:
     name: Brain Imaging Data Structure (BIDS)
     schemaKey: StandardsType
   measurementTechnique: []
-  numberOfBytes: 991606408
-  numberOfFiles: 15
+  numberOfBytes: 991614921
+  numberOfFiles: 17
   numberOfSamples: 1
   numberOfSubjects: 2
   schemaKey: AssetsSummary
   species: []
   variableMeasured: []
-citation: Gunalan, Kabilar (2025) IronTract Challenge - Public dMRI data (Version
-  draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001289/draft
+citation: Gunalan, Kabilar; Yendiki, Anastasia (2025) IronTract Challenge - Public
+  dMRI data (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001289/draft
 contributor:
 - affiliation: []
   email: kabilar@datajoint.com
@@ -30,6 +30,9 @@ contributor:
   name: Gunalan, Kabilar
   roleName:
   - dcite:ContactPerson
+  schemaKey: Person
+- includeInCitation: true
+  name: Yendiki, Anastasia
   schemaKey: Person
 dateCreated: '2025-01-07T16:57:26.450799+00:00'
 description: The data and steps involved in the challenge are described in Maffei
